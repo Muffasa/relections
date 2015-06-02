@@ -1,0 +1,5 @@
+What happens ehen you initialize a repository? Why do you need to do it?
+
+The init command creats the .git folder. It contains all the files meta data and that what makes it a repository.
+
+
