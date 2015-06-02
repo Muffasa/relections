@@ -9,3 +9,12 @@ The staging erea allowing you to determen which files will be included on the co
 How can you use the staging area to make sure you have one commit per logical change?
 
 It gives you the control over which files will be commited.
+
+What are some situations when branches would be helpful in keeping your history oerganized? How would branches help?
+
+Branches names are not GUIDS so ther are much easy to understand and use.
+They also can help tring new experemental features.
+
+What is the result of merging two branches together? Wht do we represent it in the diagram the way we do?
+
+The result of merging two branches together is they become one branch, the commits of that branch are the commits of the both merged branches. We represent it that way on the diagram cuz the merged branch now have to parents.
