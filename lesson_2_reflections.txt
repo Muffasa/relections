@@ -2,4 +2,6 @@ What happens ehen you initialize a repository? Why do you need to do it?
 
 The init command creats the .git folder. It contains all the files meta data and that what makes it a repository.
 
+How is the staging erea diffrent from the working directory and the repository? What value do you think it offers?
 
+The staging erea allowing you to determen which files will be included on the commit.
