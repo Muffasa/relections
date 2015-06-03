@@ -4,9 +4,9 @@ In many cases, the 2 major ones for me are:
 - If there are many developers on separated locations that want to work on the same project.
 - Even you want to develop something yourself, it worth to upload it to git so other people might view and suggest new ways to accomplish some goals or even bug fixing.
 
-Why might youwant to always pull changes manually rather than having Git automatically stay up-to-data with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-data with your remote repository?
 
-
+First of all you must have full controll over your commits, the commits on the local machine and the once on git dosent have to be identical, the oposite! i think they should be diffrent in most cases,for example: I dont need anyone wasting time on my experiments, tring to understand them or what ever, Git and GitHub wworks on the same engine but surve diffrent goals, one is for version control and the other is for Open source, sharing code, and bring mindes together,  
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
@@ -22,6 +22,6 @@ How would you collaborate without using Git or GitHub? What would be easier, anf
 
 When would you want to make changer in a seoarate branch rather than directly in master? What benefits dose each approach have?
 
-
+ 
 
 
