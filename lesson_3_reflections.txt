@@ -10,18 +10,18 @@ First of all you must have full controll over your commits, the commits on the l
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-
+forks and clones are the same, it just forks are on GitHub. branches have nothing to do with the others, forks and clones connected to repositories and branch is a commit, its the brik that builds any reposetory related consepts.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-
+You can keep track of the changes that have been made if you were offline or off work for some reason. ferther more, you can allway be sure you can pull that way.
 
 How would you collaborate without using Git or GitHub? What would be easier, anf hat eould be harder?
 
+I guess the old way, zip the solution and send it back and forth, sounds so wierd now after this course=\.
 
-
-When would you want to make changer in a seoarate branch rather than directly in master? What benefits dose each approach have?
+When would you want to make changer in a separate branch rather than directly in master? What benefits dose each approach have?
 
  
-
+the changes on the master branch must be controlled by 1 or maybe small group ofpeople, every contributer to the project must develop his code on diffrent branch then the master for many reasones. another reason for me wanting to make changes on a branch diffrent then the master is that by multiple branches the project can grow in many directions, even if it alltle more complicated then just work directly on master, the value it brings to any project is unmeasurable.
 
