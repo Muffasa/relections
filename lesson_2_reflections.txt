@@ -18,3 +18,9 @@ They also can help tring new experemental features.
 What is the result of merging two branches together? Wht do we represent it in the diagram the way we do?
 
 The result of merging two branches together is they become one branch, the commits of that branch are the commits of the both merged branches. We represent it that way on the diagram cuz the merged branch now have to parents.
+
+What are the pros anf cons of Git's automatic merging vs. always doing merges manually?
+
+pros: time saver.
+cons: not allways possible.
+

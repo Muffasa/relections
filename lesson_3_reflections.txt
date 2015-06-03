@@ -1,0 +1,25 @@
+Wheb wiuld you want yo use a remot repository tather than keeping all your work local?
+
+
+
+Why might youwant to always pull chaanges manually rather than havung Git automatically stay up-to-dtae with your remite repository?
+
+
+
+Describe the differences between forks, clones, and branches. when would you use one instead of another?
+
+
+
+What is the venefit of having a copy of the last known state of the remote stored locally?
+
+
+
+How would you collaborate without using Git or GitHub? what wuold be easier, anf hat eould be harder?
+
+
+
+when would you want to make changer in a seoarate vrabch rather than directly in master? What benefits dose each approach have?
+
+
+
+
